@@ -1,0 +1,12 @@
+{"level":"info","message":{"_id":"61c835ccc59912ab6bd4ae83","createdAt":"2021-12-26T09:28:44.321Z","name":"Logs test info","updatedAt":"2021-12-26T09:28:44.321Z"},"service":"project-service"}
+{"level":"info","message":{"_id":"61c83a85e7f5b978d77097e9","createdAt":"2021-12-26T09:48:53.958Z","name":"Logs test info","updatedAt":"2021-12-26T09:48:53.958Z"},"service":"project-service"}
+{"level":"info","message":{"_id":"61c9a5cdc8dc82a460893540","createdAt":"2021-12-27T11:38:53.790Z","name":"Asana Clone","updatedAt":"2021-12-27T11:38:53.790Z"},"service":"project-service"}
+{"level":"info","message":{"_id":"61c9a69ca80409869495c04a","createdAt":"2021-12-27T11:42:20.974Z","name":"Asana Clone","updatedAt":"2021-12-27T11:42:20.974Z"},"service":"project-service"}
+{"level":"info","message":{"_id":"61c9a6bd22227d3304cb31f9","createdAt":"2021-12-27T11:42:53.562Z","name":"Asana Clone","updatedAt":"2021-12-27T11:42:53.562Z"},"service":"project-service"}
+{"level":"info","message":{"_id":"61c9a6bf22227d3304cb31fb","createdAt":"2021-12-27T11:42:55.154Z","name":"Asana Clone","updatedAt":"2021-12-27T11:42:55.154Z"},"service":"project-service"}
+{"level":"info","message":{"_id":"61c9a70a7eba7c2fe622f1d9","createdAt":"2021-12-27T11:44:10.465Z","name":"Asana Clone","updatedAt":"2021-12-27T11:44:10.465Z"},"service":"project-service"}
+{"level":"info","message":{"_id":"61c9a715c592957523eb128c","createdAt":"2021-12-27T11:44:21.086Z","name":"Asana Clone","updatedAt":"2021-12-27T11:44:21.086Z","user_id":"61c8b8d1e50c0dc31a9ce114"},"service":"project-service"}
+{"level":"info","message":{"_id":"61c9a72c2638720a75cce99f","createdAt":"2021-12-27T11:44:44.030Z","name":"Asana Clone","updatedAt":"2021-12-27T11:44:44.030Z","user_id":"61c8b8d1e50c0dc31a9ce114"},"service":"project-service"}
+{"level":"info","message":{"_id":"61c9d20997a0a08437c69537","createdAt":"2021-12-27T14:47:37.546Z","name":"Asana Clone user","updatedAt":"2021-12-27T14:47:37.546Z","user_id":"61c8b8d1e50c0dc31a9ce114"},"service":"project-service"}
+{"level":"info","message":{"_id":"61cb84ad979d7299088fe687","createdAt":"2021-12-28T21:42:05.852Z","name":"Asana Clone 1 said taylan","updatedAt":"2021-12-28T21:42:05.852Z"},"service":"project-service"}
+{"level":"info","message":{"_id":"61cb84daed5f4e0c288a37f6","createdAt":"2021-12-28T21:42:50.009Z","name":"Asana Clone 1 said taylan","updatedAt":"2021-12-28T21:42:50.009Z","user_id":"61cb2eea28821adcf22ced13"},"service":"project-service"}
